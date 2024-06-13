@@ -1,5 +1,1 @@
-hola mundo !
-
-que tal?
-
-chinga tu puta madre git
+Hola, he creado este archivo como daily put para github 
